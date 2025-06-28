@@ -1,0 +1,16 @@
+cat <<EOF > .gitignore
+# Python
+__pycache__/
+*.py[cod]
+pyvenv.cfg
+
+# Virtualenv / Composer
+bin/
+lib/
+include/
+lib64/
+
+# Logs e banco local
+logs/
+airflow.db
+EOF
