@@ -74,7 +74,7 @@ Não podemos esquecer da segurança: todas as credenciais devem ser armazenadas 
 No ambiente do Composer, são necessários os pacotes:
 
 ```bash
-pip install beautifulsoup4 pandas
+pip install beautifulsoup4 pandas python-dotenv python-telegram-bot apache-airflow-providers-google
 ```
 ![image](https://github.com/user-attachments/assets/bf3df282-4856-45a7-9f41-73bc89e971cd)
 
