@@ -4,7 +4,8 @@
 
 Este projeto tem como objetivo realizar um scraping na categoria de televisão da [Kabum](https://www.kabum.com.br/tv) . Os dados serão armazenados no Google Cloud Storage, carregados no BigQuery e um alerta é enviado via Telegram com as informações de execução (funcionando como um alerta de logs). Por fim, o processo é orquestrado por uma DAG no Apache Airflow hospedado no Google Cloud Composer.
 
-![image](https://github.com/user-attachments/assets/5297c884-bbe1-4120-8e7a-a95d4e26bffc)
+![image](https://github.com/user-attachments/assets/07d727c6-6d0c-4567-a438-eab20cb17d60)
+
 
 
 ## 2. Estrutura de pastas
