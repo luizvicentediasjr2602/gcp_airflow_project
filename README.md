@@ -14,7 +14,7 @@ Este projeto tem como objetivo realizar um scraping na categoria de televisão d
 
 ### 2.1 Dataset no BigQuery
 
-É necessário criar o *dataset\_kabum* no BigQuery; a tabela de produtos será criada automaticamente no primeiro step da DAG.
+É necessário criar o *dataset\_kabum* no BigQuery.A tabela de produtos será criada automaticamente no primeiro step da DAG.
 
 ![image](https://github.com/user-attachments/assets/a31affb8-5637-4016-b30d-46569d027668)
 
