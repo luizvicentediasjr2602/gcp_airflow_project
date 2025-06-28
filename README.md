@@ -9,7 +9,8 @@ Este projeto tem como objetivo realizar um scraping na categoria de televisão d
 
 ## 2. Estrutura de pastas
 
-![image](https://github.com/user-attachments/assets/f5c90cd3-6521-4114-b40a-d9aa79e86563)
+![image](https://github.com/user-attachments/assets/41ee8eb7-1c6a-47a6-bcc7-2f8d0a369cdb)
+
 
 
 
