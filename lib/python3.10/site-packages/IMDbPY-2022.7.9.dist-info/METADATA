@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: IMDbPY
+Version: 2022.7.9
+Summary: IMDbPY is now cinemagoer
+Home-page: https://cinemagoer.github.io/
+Project-URL: Source, https://github.com/cinemagoer/cinemagoer
+Classifier: Development Status :: 7 - Inactive
+Description-Content-Type: text/markdown
+Requires-Dist: cinemagoer
+
+# IMDbPY is now cinemagoer
+
+This package has been renamed. Use `pip install cinemagoer` instead.
+
+New package: https://pypi.org/project/cinemagoer/
+
+New homepage: https://cinemagoer.github.io/
+
