@@ -9,7 +9,8 @@ Este projeto tem como objetivo realizar um scraping na categoria de televisão d
 
 ## 2. Estrutura de pastas
 
-![image](https://github.com/user-attachments/assets/f4beef6a-802e-4454-bd69-a75c20088f73)
+![image](https://github.com/user-attachments/assets/f5c90cd3-6521-4114-b40a-d9aa79e86563)
+
 
 
 ### 2.1 Dataset no BigQuery
